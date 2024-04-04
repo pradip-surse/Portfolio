@@ -24,7 +24,7 @@
        * Easy selector helper function
       */
      // function([string1, string2],target id,[color1,color2])    
-     consoleText(['Hello World.', 'Console Text', 'Made with Love.'], 'text',['tomato','rebeccapurple','lightblue']);
+     consoleText(['Web Developer', 'DevOps Engineer', 'Python Developer'], 'text',['tomato','rebeccapurple','lightblue']);
      
      function consoleText(words, id, colors) {
        if (colors === undefined) colors = ['#fff'];
