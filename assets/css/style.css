@@ -22,7 +22,7 @@ body::before {
   content: "";
   position: fixed;
   background-size: cover;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.550), rgba(0, 0, 0, 0.8) ), url("../img/P\ bg.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.550), rgba(0, 0, 0, 0.6) ), url("../img/PS.jpg");
   /* position: relative; */
   left: 0;
   right: 0;
